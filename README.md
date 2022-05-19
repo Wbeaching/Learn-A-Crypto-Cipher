@@ -5,3 +5,9 @@ Use deep learning, with a variety of experiments, to see if we can learn a crypt
 - A cipher of our own creation
 
 Check out the notebook files for a walkthrough!
+
+
+
+Note:
+ AES:失败
+ 简单密码：成功
